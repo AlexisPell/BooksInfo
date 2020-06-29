@@ -1,0 +1,8 @@
+export const GET_BOOKS = 'GET_BOOKS'
+export const SET_LOADING = 'SET_LOADING'
+export const FILTER_GENRE = 'GENRE_FILTER'
+export const FILTER_DESCR = 'FILTER_DESCR'
+export const CLEAR_GENRE = 'CLEAR_GENRE'
+export const CLEAR_DESCR = 'CLEAR_DESCR'
+export const COMBINED_FILTER = 'COMBINED_FILTER'
+export const CLEAR_FILTER = 'CLEAR_FILTER'
